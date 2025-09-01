@@ -8,6 +8,9 @@ An intelligent agent that performs complete EDA automatically in ~2 minutes. Pow
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io)
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--5-green.svg)](https://openai.com)
 
+## 🚀 Demo
+![Demo](EDA_Agent_video.git)
+
 ## ✨ Features
 
 - **🤖 Autonomous Agent**: No manual intervention needed - the AI plans, executes, and explains the analysis
