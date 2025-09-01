@@ -9,7 +9,7 @@ An intelligent agent that performs complete EDA automatically in ~2 minutes. Pow
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--5-green.svg)](https://openai.com)
 
 ## 🚀 Demo
-![Demo](EDA_Agent_video.git)
+![Demo](EDA_Agent_video.gif)
 
 ## ✨ Features
 
