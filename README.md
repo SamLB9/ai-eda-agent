@@ -164,32 +164,6 @@ ai-eda-agent/
 └── README.md               # This file
 ```
 
-## 🤝 Contributing
-
-We welcome contributions! Here's how you can help:
-
-1. **Fork the repository**
-2. **Create a feature branch** (`git checkout -b feature/amazing-feature`)
-3. **Commit your changes** (`git commit -m 'Add amazing feature'`)
-4. **Push to the branch** (`git push origin feature/amazing-feature`)
-5. **Open a Pull Request**
-
-### Development Setup
-```bash
-# Install development dependencies
-pip install -r requirements.txt
-pip install black flake8 pytest
-
-# Run tests
-pytest
-
-# Format code
-black src/
-
-# Lint code
-flake8 src/
-```
-
 ## 🐛 Troubleshooting
 
 ### Common Issues
@@ -208,29 +182,6 @@ flake8 src/
 - Large datasets may take longer
 - Check your internet connection
 - Verify OpenAI API is responding
-
-### Getting Help
-- **GitHub Issues**: Report bugs and request features
-- **Discussions**: Ask questions and share ideas
-- **Wiki**: Detailed documentation and examples
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **OpenAI** for providing the GPT-5 API
-- **Streamlit** for the amazing web framework
-- **Pandas/NumPy/Matplotlib** for data processing and visualization
-- **Kaggle** for providing the demo datasets
-- **Open Source Community** for inspiration and support
-
-## 📞 Contact
-
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Project**: [AI-EDA Agent](https://github.com/yourusername/ai-eda-agent)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ai-eda-agent/issues)
 
 ---
 
